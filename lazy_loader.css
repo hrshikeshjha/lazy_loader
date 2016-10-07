@@ -1,0 +1,22 @@
+﻿.lazy-container{ width:100%; max-width:760px; padding-top:5px; padding-bottom:20px; height:auto; text-align:center;}
+.lazy-loader{ width:100%; background-color:#fff;outline:none;}
+.lazy-loader>a{text-decoration:none; color:inherit; outline:none; outline:inherit;} 
+.post-categories{ display:inline !important;}
+ul, li>a{text-decoration:none; color:inherit; outline:inherit;}
+.entry-title>a{ font-size:25px !important; font-family:inherit; text-align:center!important; line-height:40px; margin:0px! important color:#323232!important; text-decoration:none; color:inherit; outline:none; outline:inherit;} 
+.entry-title>a:hover{  color:#777!important; background-color:#f7f7f7;outline:inherit;}
+.post-info{ font-family:inherit; font-size:12px; color:#323232; padding-bottom:5px;outline:inherit; text-align:center;}
+.post-info>ul, li{  list-style: none; display:inline; outline:inherit; margin:0px !important}
+.post-italic{ font-family:inherit;  font-size:11px; color:#777;outline:inherit; font-style:italic;}
+.post-italic_info{text-decoration:underline dotted; padding-right:10px;padding-left:2px;outline:inherit;}
+.readmore{ outline:none; width:150px;  padding-top:15px; padding-bottom:15px; border-bottom:1px dotted #555; text-align:center; margin:auto; transition:1s; cursor:pointer; font-size:12px; margin-bottom:50px;outline:inherit;}
+.readmore:hover{ background:#f7f7f7;  border-bottom:1px dotted #eee; transition:1s;outline:inherit;}
+.readmore_link{text-decoration:none; color:inherit; outline:inherit;}
+.blog-img{ width:100%; text-align:center; overflow-x:hidden;outline:inherit;}
+.lazy-content{ width:100%; padding-top:5px; padding-bottom:20px; height:auto;}
+.entry-content{ text-align:left; line-height:27px; color:#333;outline:inherit;}
+.newer_post_link{  width:150px; height:25px; padding-top:10px; text-align:center; transition:1s; cursor:pointer; font-size:12px; float:right;outline:inherit;}
+.older_post_link{  width:150px; height:25px; padding-top:10px; text-align:center; transition:1s; cursor:pointer; font-size:12px; float:left;outline:inherit;}
+.newer_post_link:hover{ background:#f7f7f7;  transition:1s;outline:inherit;}
+.older_post_link:hover{ background:#f7f7f7;  transition:1s;outline:inherit;}
+.clear{ clear:both;}
